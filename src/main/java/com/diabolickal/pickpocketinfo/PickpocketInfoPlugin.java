@@ -22,9 +22,7 @@ import java.util.regex.Pattern;
 @PluginDescriptor(
         name = "Pickpocket Info",
         description = "Shows helpful pickpocketing info.",
-        tags = {"thieving", "pickpocket"},
-        loadWhenOutdated = true,
-        enabledByDefault = false
+        tags = {"thieving", "pickpocket"}
 )
 
 @Slf4j
